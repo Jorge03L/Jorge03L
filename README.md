@@ -17,12 +17,18 @@
  
 ##  <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> About Me 
 
-<picture> <img align="right" src="https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy.gif" width = 210px></picture>
+<picture> <img align="right" src="https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy.gif" width = 200px></picture>
+
+- Open-minded student eager to learn
 
 - Studies: Systems and Network Administration at `IES Ágora`
+
 - Interested in `Full Stack` development
+
 - You can visit [MY PORTFOLIO]() for some frontend knowledge
-- :email: Feel free to **reach me out** [![Send me Email](https://img.shields.io/static/v1?label=email&amp;message=ElioChiu&amp;color=EA4335&amp;style=flat-square)](mailto:jorgelindo429@gmail.com)
+
+
+
 
 <br>
 
