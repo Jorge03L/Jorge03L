@@ -54,7 +54,6 @@ An open-minded developer and student with a solid foundation in systems, now div
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white)
 ![KaliLinux](https://img.shields.io/badge/Kali-557C94?style=flat-square&logo=KaliLinux&logoColor=white)
 
-<br>
 
 ### 📂 Data Analysis & Systems
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -62,20 +61,9 @@ An open-minded developer and student with a solid foundation in systems, now div
 ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 30px>  </picture> Github Stats
 
 <!--- stats & Trophy (start) -->
-## 📊 Github Stats
-
 <p align="center">
-  <table align="center">
-    <tr border="none">
-      <td width="50%" align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=JorgeL03&theme=tokyonight&hide_border=false" alt="GitHub Streak Stats" />
-      </td>
-      <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeL03&layout=compact&theme=tokyonight&hide_border=false" alt="Most Used Languages" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JorgeL03&theme=dark" alt="Streak Stats" />
+  <br/>
 </p>
-
 <br/>
 
