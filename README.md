@@ -17,14 +17,13 @@
  
 ##  <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> About Me 
 
-- Open-minded student eager to learn
+An open-minded developer and student with a solid foundation in systems, now diving deep into the world of software engineering.
 
-- Studies: Systems and Network Administration at `IES Ágora`
+🎓 Currently studying: Bachelor's Degree in Computer Engineering.
 
-- Interested in `Full Stack` development
+📜 Background: Associate's Degree in Systems and Network Administration.
 
-- You can visit [MY PORTFOLIO]() for some frontend knowledge
-
+🌟 Goal: To create efficient, scalable, and user-centric applications.
 
 
 
@@ -35,13 +34,12 @@
 ### Programming languages
 
 ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 
 ### Frontend Development
 
 ![HTML5](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/CP_PS.gif?raw=true" width = 20px>  </picture> Data Analysis
 
